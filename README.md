@@ -1,2 +1,2 @@
-# MatrX-Python
-a voice assistent program for windows
+# MatrX
+A computer assistent-program by me)
